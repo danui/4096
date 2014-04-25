@@ -9,7 +9,7 @@ particular, the use of `localStorage` to store game state.
 
 [Play 4096 version](http://martijnkorteweg.github.io/4096/)
 
-[Play 2048 version](http://gabrielecirulli.github.io/4096/)
+[Play 2048 version](http://gabrielecirulli.github.io/2048/)
 
 
 ### README from 4096 version...
