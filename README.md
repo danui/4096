@@ -1,4 +1,19 @@
 # 4096
+
+A merge of [2048](https://github.com/gabrielecirulli/2048) and
+[4096](https://github.com/martijnkorteweg/4096).  This brings in
+improvements to the 2048 game made after the original 4096 fork.  In
+particular, the use of `localStorage` to store game state.
+
+[Play this version](http://danui.github.io/4096/)
+
+[Play 4096 version](http://martijnkorteweg.github.io/4096/)
+
+[Play 2048 version](http://gabrielecirulli.github.io/4096/)
+
+
+### README from 4096 version...
+
 After beating 2048 it seemed we can go up one more level. Lets try!
 
 Made just for fun. [Play it here!](http://martijnkorteweg.github.io/4096/)
