@@ -3,7 +3,9 @@
 A merge of [2048](https://github.com/gabrielecirulli/2048) and
 [4096](https://github.com/martijnkorteweg/4096).  This brings in
 improvements to the 2048 game made after the original 4096 fork.  In
-particular, the use of `localStorage` to store game state.
+particular, the use of `localStorage` to store game state means you
+won't lose your _almost-did-it_ game when the browser refreshes.  (Sad
+story there.)
 
 [Play this version](http://danui.github.io/4096/)
 
